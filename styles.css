@@ -17,12 +17,16 @@ html{
     align-items: center;
     height: 100vh;
     padding: 15px;
+    border-radius:20px;
+    box-shadow: inset;
     }
 .calculadora{
     display: flex;
     flex-direction: column;
     width: 500px;
     border: 1px solid red;
+    box-shadow: inset;
+    border-radius: 20px;
 }
 .calculadora-display{
  padding: 25px 15px;
@@ -48,6 +52,7 @@ html{
     cursor: pointer;
     background-color: aliceblue;
     border: 1px solid red;
+    border-radius: 20px;
 
 }
 .botones-de-numeros:hover{
