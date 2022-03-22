@@ -17,7 +17,7 @@ html{
     align-items: center;
     height: 100vh;
     padding: 15px;
-}
+    }
 .calculadora{
     display: flex;
     flex-direction: column;
@@ -50,3 +50,6 @@ html{
     border: 1px solid red;
 
 }
+.botones-de-numeros:hover{
+    background-color:red;
+    }

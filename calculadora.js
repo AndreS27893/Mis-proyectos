@@ -1,0 +1,1 @@
+getElementById("container").addEventListener("transitionend", updateTransition, true);
