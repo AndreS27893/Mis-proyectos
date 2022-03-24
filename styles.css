@@ -2,7 +2,7 @@
 *{
 
     box-sizing: border-box;
-    scale: 1000
+  
 }
 html{
     font-family: 'Bebas Neue', cursive;
@@ -18,7 +18,7 @@ html{
     height: 100vh;
     padding: 15px;
     border-radius:20px;
-    box-shadow: inset;
+   
     }
 .calculadora{
     display: flex;
@@ -57,4 +57,5 @@ html{
 }
 .botones-de-numeros:hover{
     background-color:red;
+    transition: .25s;
     }
