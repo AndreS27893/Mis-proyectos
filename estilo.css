@@ -279,6 +279,9 @@
     .contact-section-header > h2 {
       font-size: 4rem;
     }
+    .nav-bar{
+      text-align: center;
+    }
   }
   
   .contact-section-header > p {
